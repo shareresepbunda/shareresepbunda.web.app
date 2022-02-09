@@ -1,6 +1,6 @@
-baseURL = "https://heloresep.web.app/"
+baseURL = "https://shareresepbunda.web.app/"
 languageCode = "id-id"
-title = "Helo Resep"
+title = "Share Resep Bunda"
 theme = "big"
 
 [taxonomies]
@@ -13,7 +13,7 @@ theme = "big"
 [params]
   description = "Lebih dari 10.000 resep populer untuk panduan lengkap memasak Anda"
   topdescription = "Lebih dari 10.000 resep populer untuk panduan lengkap memasak Anda"
-  toptitle = "Helo Resep"
+  toptitle = "Share Resep Bunda"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -41,7 +41,7 @@ theme = "big"
 
 [author]
     name = "Clara Bernadette"
-    homepage = "https://heloresep.web.app/"
+    homepage = "https://shareresepbunda.web.app/"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
